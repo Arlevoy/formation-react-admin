@@ -1,0 +1,6 @@
+{
+  "watch": ["src"],
+  "ext": "ts",
+  "ignore": ["src/**/*.spec.ts"],
+  "exec": "tsc && NODE_ENV=debug node --inspect-brk dist/index.js"
+}
