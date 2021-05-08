@@ -45,7 +45,7 @@
     "mysql": "^2.15.0",
     "nodemon": "^1.19.1",
     "pg": "^7.11.0",
-    "typeorm": "^0.2.0"
+    "typeorm": "^0.2.25"
   },
   "scripts": {
     "start": "nodemon --config nodemon.json"
